@@ -116,7 +116,7 @@ Before running, ensure:
 
 ## 👤 Author
 
-**Himanshu Narayan Patle**  
+**Himanshu Patle**  
 📍 Nagpur, India  
 🔗 GitHub: https://github.com/imanshu-01
 
