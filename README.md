@@ -1,11 +1,11 @@
-![Banner](https://github.com/user-attachments/assets/8b66ac2a-c6d0-437f-8c07-67d5badd6239)
-
 # 🤖 J.A.R.V.I.S – Desktop Voice Assistant (Part-01)
 
 A **Python-based Desktop Voice Assistant** with a **graphical user interface**, inspired by *JARVIS*.  
 This project combines **speech recognition**, **text-to-speech**, and **PyQt5 GUI** to create an interactive desktop assistant capable of performing daily tasks through voice commands.
 
 ---
+
+![Banner](https://github.com/user-attachments/assets/8b66ac2a-c6d0-437f-8c07-67d5badd6239)
 
 ## 📂 Repository Structure
 
