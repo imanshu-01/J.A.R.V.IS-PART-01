@@ -132,4 +132,4 @@ If you find this project useful:
 
 ---
 
-© 2025 Himanshu Narayan Patle. All rights reserved.
+© 2025 Himanshu Patle. All rights reserved.
