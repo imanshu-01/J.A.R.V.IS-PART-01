@@ -3,7 +3,7 @@ from openai import OpenAI
 # pip install openai 
 # if you saved the key under a different environment variable name, you can do something like:
 client = OpenAI(
-  api_key="<AIzaSyDO33wmcA46VMBWl53oADpm6m0UDIp5tII>",
+  api_key="<YOUR GEMINI API KEY>",
 )
 
 completion = client.chat.completions.create(
